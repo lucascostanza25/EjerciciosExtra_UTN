@@ -1,0 +1,23 @@
+/*
+7. Diseñar un programa que calcule la longitud de la circunferencia y el área del círculo de radio dado.
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	setbuf(stdout, NULL);
+	float radioIngresado, longitud, area;
+	longitud=0;
+	area=0;
+
+	printf("Ingrese el radio de la circunferencia: ");
+	scanf("%f", &radioIngresado);
+
+	longitud=2*3,14*radioIngresado;
+	area=3,14*(radioIngresado*radioIngresado);
+
+	printf("La longitud de la circunferencia es %.2fcm\n", longitud);
+	printf("El area de la circunferencia es %.2fcm", area);
+	return EXIT_SUCCESS;
+}
