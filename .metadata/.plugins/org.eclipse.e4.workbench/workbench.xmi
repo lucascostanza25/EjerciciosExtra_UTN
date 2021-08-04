@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_oCJFoPG0EeuZ58Ho72QrRg" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_oCJFofG0EeuZ58Ho72QrRg" bindingContexts="_oCKVVPG0EeuZ58Ho72QrRg">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 7.c&quot; tooltip=&quot;Ejercicio 7/src/Ejercicio 7.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 7/src/Ejercicio 7.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 3.c&quot; tooltip=&quot;Ejercicio 3/src/Ejercicio 3.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 3/src/Ejercicio 3.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 4.c&quot; tooltip=&quot;Ejercicio 4/src/Ejercicio 4.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 4/src/Ejercicio 4.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 5.c&quot; tooltip=&quot;Ejercicio 5/src/Ejercicio 5.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 5/src/Ejercicio 5.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 6.c&quot; tooltip=&quot;Ejercicio 6/src/Ejercicio 6.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 6/src/Ejercicio 6.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 2.c&quot; tooltip=&quot;Ejercicio 2/src/Ejercicio 2.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 2/src/Ejercicio 2.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 1.c&quot; tooltip=&quot;Ejercicio 1/src/Ejercicio 1.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 1/src/Ejercicio 1.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 20.c&quot; tooltip=&quot;Ejercicio 20/src/Ejercicio 20.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 20/src/Ejercicio 20.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 19.c&quot; tooltip=&quot;Ejercicio 19/src/Ejercicio 19.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 19/src/Ejercicio 19.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 18.c&quot; tooltip=&quot;Ejercicio 18/src/Ejercicio 18.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 18/src/Ejercicio 18.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 17.c&quot; tooltip=&quot;Ejercicio 17/src/Ejercicio 17.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 17/src/Ejercicio 17.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 16.c&quot; tooltip=&quot;Ejercicio 16/src/Ejercicio 16.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 16/src/Ejercicio 16.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 15.c&quot; tooltip=&quot;Ejercicio 15/src/Ejercicio 15.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 15/src/Ejercicio 15.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 14.c&quot; tooltip=&quot;Ejercicio 14/src/Ejercicio 14.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 14/src/Ejercicio 14.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 13.c&quot; tooltip=&quot;Ejercicio 13/src/Ejercicio 13.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 13/src/Ejercicio 13.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 12.c&quot; tooltip=&quot;Ejercicio 12/src/Ejercicio 12.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 12/src/Ejercicio 12.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Hola mundo.c&quot; tooltip=&quot;Hola mundo/src/Hola mundo.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Hola mundo/src/Hola mundo.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 11.c&quot; tooltip=&quot;Ejercicio 11/src/Ejercicio 11.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 11/src/Ejercicio 11.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 10.c&quot; tooltip=&quot;Ejercicio 10/src/Ejercicio 10.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 10/src/Ejercicio 10.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 9.c&quot; tooltip=&quot;Ejercicio 9/src/Ejercicio 9.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 9/src/Ejercicio 9.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 8.c&quot; tooltip=&quot;Ejercicio 8/src/Ejercicio 8.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 8/src/Ejercicio 8.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 7.c&quot; tooltip=&quot;Ejercicio 7/src/Ejercicio 7.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 7/src/Ejercicio 7.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 3.c&quot; tooltip=&quot;Ejercicio 3/src/Ejercicio 3.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 3/src/Ejercicio 3.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 4.c&quot; tooltip=&quot;Ejercicio 4/src/Ejercicio 4.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 4/src/Ejercicio 4.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 5.c&quot; tooltip=&quot;Ejercicio 5/src/Ejercicio 5.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 5/src/Ejercicio 5.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 6.c&quot; tooltip=&quot;Ejercicio 6/src/Ejercicio 6.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 6/src/Ejercicio 6.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 2.c&quot; tooltip=&quot;Ejercicio 2/src/Ejercicio 2.c&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Ejercicio 2/src/Ejercicio 2.c&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_oCJFofG0EeuZ58Ho72QrRg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_oCJFovG0EeuZ58Ho72QrRg" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
@@ -67,7 +67,7 @@
           <tags>persp.viewSC:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
           <tags>persp.showIn:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="_oCJFpfG0EeuZ58Ho72QrRg" selectedElement="_oCJFpvG0EeuZ58Ho72QrRg" horizontal="true">
-            <children xsi:type="basic:PartStack" xmi:id="_oCJFpvG0EeuZ58Ho72QrRg" elementId="topLeft" containerData="1370" selectedElement="_oCJFp_G0EeuZ58Ho72QrRg">
+            <children xsi:type="basic:PartStack" xmi:id="_oCJFpvG0EeuZ58Ho72QrRg" elementId="topLeft" containerData="1475" selectedElement="_oCJFp_G0EeuZ58Ho72QrRg">
               <tags>active</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_oCJFp_G0EeuZ58Ho72QrRg" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_oCJuavG0EeuZ58Ho72QrRg" closeable="true">
                 <tags>View</tags>
@@ -82,7 +82,7 @@
                 <tags>categoryTag:General</tags>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_oCJFqvG0EeuZ58Ho72QrRg" containerData="8630" selectedElement="_oCJFq_G0EeuZ58Ho72QrRg">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_oCJFqvG0EeuZ58Ho72QrRg" containerData="8525" selectedElement="_oCJFq_G0EeuZ58Ho72QrRg">
               <children xsi:type="basic:PartSashContainer" xmi:id="_oCJFq_G0EeuZ58Ho72QrRg" containerData="7500" selectedElement="_oCJFrPG0EeuZ58Ho72QrRg" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_oCJFrPG0EeuZ58Ho72QrRg" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_oCJuZPG0EeuZ58Ho72QrRg"/>
                 <children xsi:type="basic:PartStack" xmi:id="_oCJFrfG0EeuZ58Ho72QrRg" elementId="topRight" toBeRendered="false" containerData="2500">
@@ -118,7 +118,7 @@
                   <tags>View</tags>
                   <tags>categoryTag:General</tags>
                 </children>
-                <children xsi:type="advanced:Placeholder" xmi:id="_oCJFtvG0EeuZ58Ho72QrRg" elementId="org.eclipse.ui.views.PropertySheet" ref="_oCJu8PG0EeuZ58Ho72QrRg" closeable="true">
+                <children xsi:type="advanced:Placeholder" xmi:id="_oCJFtvG0EeuZ58Ho72QrRg" elementId="org.eclipse.ui.views.PropertySheet" toBeRendered="false" ref="_oCJu8PG0EeuZ58Ho72QrRg" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:General</tags>
                 </children>
@@ -149,8 +149,14 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_oCJuX_G0EeuZ58Ho72QrRg" elementId="org.eclipse.help.ui.HelpView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Help" iconURI="platform:/plugin/org.eclipse.help.ui/icons/view16/help_view.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.help.ui.internal.views.HelpView"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.help.ui"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view pageId=&quot;context-help-page&quot;/>"/>
       <tags>View</tags>
       <tags>categoryTag:Help</tags>
+      <menus xmi:id="_7shBgPQEEeugVOTiI4VEJQ" elementId="org.eclipse.help.ui.HelpView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_7shBgfQEEeugVOTiI4VEJQ" elementId="org.eclipse.help.ui.HelpView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_oCJuYPG0EeuZ58Ho72QrRg" elementId="org.eclipse.ui.internal.introview" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Welcome" iconURI="platform:/plugin/org.eclipse.ui/icons/full/eview16/defaultview_misc.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.ViewIntroAdapterPart"/>
@@ -171,9 +177,33 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_oCJuZPG0EeuZ58Ho72QrRg" elementId="org.eclipse.ui.editorss" selectedElement="_oCJuZfG0EeuZ58Ho72QrRg">
-      <children xsi:type="basic:PartStack" xmi:id="_oCJuZfG0EeuZ58Ho72QrRg" elementId="org.eclipse.e4.primaryDataStack">
+      <children xsi:type="basic:PartStack" xmi:id="_oCJuZfG0EeuZ58Ho72QrRg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_kJdyIPVdEeu-fOBhK-oSvg">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
+        <children xsi:type="basic:Part" xmi:id="_o7u3gPQOEeuM3e3xL0rcbw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Ejercicio 17.c" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/obj16/c_file_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 17.c&quot; partName=&quot;Ejercicio 17.c&quot; title=&quot;Ejercicio 17.c&quot; tooltip=&quot;Ejercicio 17/src/Ejercicio 17.c&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Ejercicio 17/src/Ejercicio 17.c&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;370&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.cdt.ui.editor.CEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_8NyXAPQOEeuM3e3xL0rcbw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Ejercicio 18.c" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/obj16/c_file_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 18.c&quot; partName=&quot;Ejercicio 18.c&quot; title=&quot;Ejercicio 18.c&quot; tooltip=&quot;Ejercicio 18/src/Ejercicio 18.c&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Ejercicio 18/src/Ejercicio 18.c&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;731&quot; selectionTopPixel=&quot;2&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.cdt.ui.editor.CEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_9AnHUPVcEeu-fOBhK-oSvg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Ejercicio 19.c" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/obj16/c_file_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 19.c&quot; partName=&quot;Ejercicio 19.c&quot; title=&quot;Ejercicio 19.c&quot; tooltip=&quot;Ejercicio 19/src/Ejercicio 19.c&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Ejercicio 19/src/Ejercicio 19.c&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;499&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.cdt.ui.editor.CEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_kJdyIPVdEeu-fOBhK-oSvg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Ejercicio 20.c" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/obj16/c_file_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;Ejercicio 20.c&quot; partName=&quot;Ejercicio 20.c&quot; title=&quot;Ejercicio 20.c&quot; tooltip=&quot;Ejercicio 20/src/Ejercicio 20.c&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Ejercicio 20/src/Ejercicio 20.c&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;414&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.cdt.ui.editor.CEditor</tags>
+        </children>
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_oCJuavG0EeuZ58Ho72QrRg" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.png" tooltip="" closeable="true">
@@ -235,8 +265,14 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_oCJu8PG0EeuZ58Ho72QrRg" elementId="org.eclipse.ui.views.PropertySheet" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Properties" iconURI="platform:/plugin/org.eclipse.ui.views/icons/full/eview16/prop_ps.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.views.properties.PropertySheet"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.views"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <menus xmi:id="_UZGakPQGEeuKQo7JHwqldg" elementId="org.eclipse.ui.views.PropertySheet">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_UZGakfQGEeuKQo7JHwqldg" elementId="org.eclipse.ui.views.PropertySheet" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_oCJu8fG0EeuZ58Ho72QrRg" elementId="org.eclipse.ui.views.ContentOutline" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Outline" iconURI="platform:/plugin/org.eclipse.ui.views/icons/full/eview16/outline_co.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.views.contentoutline.ContentOutline"/>
@@ -282,13 +318,13 @@
     </sharedElements>
     <trimBars xmi:id="_oCJu-vG0EeuZ58Ho72QrRg" elementId="org.eclipse.ui.main.toolbar" contributorURI="platform:/plugin/org.eclipse.platform">
       <children xsi:type="menu:ToolControl" xmi:id="_oCJu-_G0EeuZ58Ho72QrRg" elementId="org.eclipse.launchbar" contributionURI="bundleclass://org.eclipse.launchbar.ui.controls/org.eclipse.launchbar.ui.controls.internal.LaunchBarControl"/>
-      <children xsi:type="menu:ToolBar" xmi:id="_oCJu_PG0EeuZ58Ho72QrRg" elementId="group.file" toBeRendered="false">
+      <children xsi:type="menu:ToolBar" xmi:id="_oCJu_PG0EeuZ58Ho72QrRg" visible="false">
         <tags>toolbarSeparator</tags>
-        <children xsi:type="menu:ToolBarSeparator" xmi:id="_oCJu_fG0EeuZ58Ho72QrRg" elementId="group.file" toBeRendered="false"/>
+        <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_oCJu_vG0EeuZ58Ho72QrRg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_H3pFUPG6Eeu1NrInt9Lllg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_oCLmzfG0EeuZ58Ho72QrRg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_eWdjoPVbEeu-fOBhK-oSvg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_oCLmzfG0EeuZ58Ho72QrRg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_oCJvDvG0EeuZ58Ho72QrRg" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -319,7 +355,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_oCJvbfG0EeuZ58Ho72QrRg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_H3q6gfG6Eeu1NrInt9Lllg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_oCLmcPG0EeuZ58Ho72QrRg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_eWf_4fVbEeu-fOBhK-oSvg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_oCLmcPG0EeuZ58Ho72QrRg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_oCJvefG0EeuZ58Ho72QrRg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -331,6 +367,10 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_oCJvffG0EeuZ58Ho72QrRg" elementId="org.eclipse.ui.workbench.help" visible="false">
         <tags>Draggable</tags>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_RIILMPMYEeuxD6evcDl6hA" elementId="group.file" toBeRendered="false">
+        <tags>toolbarSeparator</tags>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_RIILMfMYEeuxD6evcDl6hA" elementId="group.file" toBeRendered="false"/>
       </children>
       <children xsi:type="menu:ToolControl" xmi:id="_oCJvgPG0EeuZ58Ho72QrRg" elementId="PerspectiveSpacer" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
         <tags>stretch</tags>
@@ -372,7 +412,7 @@
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolControl" xmi:id="_oCJvnPG0EeuZ58Ho72QrRg" elementId="bottom(IDEWindow).(org.eclipse.cdt.ui.CPerspective)" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
-        <persistedState key="XSize" value="1004"/>
+        <persistedState key="XSize" value="1381"/>
         <persistedState key="YSize" value="400"/>
         <tags>TrimStack</tags>
         <tags>Draggable</tags>
@@ -658,6 +698,9 @@
     <bindings xmi:id="_oCKUWvG0EeuZ58Ho72QrRg" keySequence="DEL" command="_oCLkGfG0EeuZ58Ho72QrRg"/>
     <bindings xmi:id="_oCKUW_G0EeuZ58Ho72QrRg" keySequence="ALT+-" command="_oCLlpvG0EeuZ58Ho72QrRg"/>
     <bindings xmi:id="_oCKUXPG0EeuZ58Ho72QrRg" keySequence="ALT+CR" command="_oCLmgPG0EeuZ58Ho72QrRg"/>
+    <bindings xmi:id="_eDj1wfVbEeu-fOBhK-oSvg" keySequence="ALT+CTRL+C" command="_EOdX8PQGEeuKQo7JHwqldg"/>
+    <bindings xmi:id="_eDm5EPVbEeu-fOBhK-oSvg" keySequence="ALT+CTRL+X" command="_EOcw4fQGEeuKQo7JHwqldg"/>
+    <bindings xmi:id="_eDm5EfVbEeu-fOBhK-oSvg" keySequence="ALT+CTRL+Z" command="_EOcw4vQGEeuKQo7JHwqldg"/>
   </bindingTables>
   <bindingTables xmi:id="_oCKUXfG0EeuZ58Ho72QrRg" elementId="org.eclipse.wst.sse.ui.structuredTextEditorScope" bindingContext="_oCKVXfG0EeuZ58Ho72QrRg">
     <bindings xmi:id="_oCKUXvG0EeuZ58Ho72QrRg" keySequence="CTRL+SHIFT+P" command="_oCLlt_G0EeuZ58Ho72QrRg"/>
@@ -2995,6 +3038,9 @@
   <commands xmi:id="_oCLoA_G0EeuZ58Ho72QrRg" elementId="AUTOGEN:::org.eclipse.mylyn.tasks.ui.actions.view/org.eclipse.mylyn.tasks.ui.open.repositories.view" commandName="Show Task Repositories View" description="Show Task Repositories View" category="_oCLoLfG0EeuZ58Ho72QrRg"/>
   <commands xmi:id="_oCLoBPG0EeuZ58Ho72QrRg" elementId="AUTOGEN:::org.eclipse.mylyn.tasks.ui.actions.view/org.eclipse.mylyn.doc.legend.show.action" commandName="Show UI Legend" description="Show Tasks UI Legend" category="_oCLoLfG0EeuZ58Ho72QrRg"/>
   <commands xmi:id="_oCLoBfG0EeuZ58Ho72QrRg" elementId="AUTOGEN:::org.eclipse.mylyn.tasks.ui.actions.view/org.eclipse.mylyn.context.ui.actions.tasklist.focus" commandName="Focus on Workweek" description="Focus on Workweek" category="_oCLoLfG0EeuZ58Ho72QrRg"/>
+  <commands xmi:id="_EOcw4fQGEeuKQo7JHwqldg" elementId="abhi.plugin.cmdwin.commands.openfolder" commandName="OpenContainingFolder" category="_oCLoLfG0EeuZ58Ho72QrRg"/>
+  <commands xmi:id="_EOcw4vQGEeuKQo7JHwqldg" elementId="abhi.plugin.cmdwin.commands.opencmdwin" commandName="OpenCmdWindow" category="_oCLoLfG0EeuZ58Ho72QrRg"/>
+  <commands xmi:id="_EOdX8PQGEeuKQo7JHwqldg" elementId="abhi.plugin.cmdwin.commands.copyabspath" commandName="CopyPathToClipBoard" category="_oCLoLfG0EeuZ58Ho72QrRg"/>
   <addons xmi:id="_oCLoBvG0EeuZ58Ho72QrRg" elementId="org.eclipse.e4.core.commands.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.core.commands/org.eclipse.e4.core.commands.CommandServiceAddon"/>
   <addons xmi:id="_oCLoB_G0EeuZ58Ho72QrRg" elementId="org.eclipse.e4.ui.contexts.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.services/org.eclipse.e4.ui.services.ContextServiceAddon"/>
   <addons xmi:id="_oCLoCPG0EeuZ58Ho72QrRg" elementId="org.eclipse.e4.ui.bindings.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.bindings/org.eclipse.e4.ui.bindings.BindingServiceAddon"/>

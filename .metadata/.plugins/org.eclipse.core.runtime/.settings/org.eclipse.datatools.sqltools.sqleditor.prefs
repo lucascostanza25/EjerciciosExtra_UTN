@@ -1,12 +1,12 @@
 Double=quoted string\=0,0,0,0,0,115,204,154
-Double\ quoted\ string=0,0,0,0,0,103,177,211
+Double\ quoted\ string=0,0,0,0,0,74,163,203
 Identifier=0,0,0,0,0,149,190,216
-Keyword=0,0,0,0,0,193,126,126
+Keyword=0,0,0,0,0,202,118,118
 Multi-line=comment\=0,0,0,0,0,125,140,147
 Multi-line\ comment=0,0,0,0,0,125,140,147
 Others=0,0,0,0,0,224,226,228
 Single=quoted string\=0,0,0,0,0,115,204,154
-Single\ quoted\ string=0,0,0,0,0,103,177,211
+Single\ quoted\ string=0,0,0,0,0,74,163,203
 Single-line=comment\=0,0,0,0,0,125,140,147
 Single-line\ comment=0,0,0,0,0,125,140,147
 Type=0,0,0,0,0,26,190,153

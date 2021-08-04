@@ -2,5 +2,25 @@
 <workingSetManager>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627616005064_0" label="Java Main Sources" name="Java Main Sources"/>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627616005071_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627857639838_3" label="Variables, acumuladores y contadores" name="Variables, acumuladores y contadores">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Ejercicio 1" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Ejercicio 2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Ejercicio 3" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Ejercicio 4" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Ejercicio 5" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Ejercicio 6" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Ejercicio 7" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Ejercicio 8" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627857663585_4" label="Acumuladores, pantalla y bucles" name="Acumuladores, pantalla y bucles">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Ejercicio 10" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Ejercicio 9" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Ejercicio 11" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Ejercicio 12" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627616006375_2" label="Window Working Set" name="Aggregate for window 1627616006375"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627858514874_6" label="Multiple Working Sets" name="Aggregate:Acumuladores, pantalla y bucles:Variables, acumuladores y contadores:">
+<workingSet IMemento.internal.id="Acumuladores, pantalla y bucles"/>
+<workingSet IMemento.internal.id="Variables, acumuladores y contadores"/>
+</workingSet>
 </workingSetManager>
