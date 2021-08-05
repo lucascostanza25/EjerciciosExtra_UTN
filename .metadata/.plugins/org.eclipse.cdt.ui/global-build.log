@@ -1,5 +1,5 @@
-19:55:34 **** Incremental Build of configuration Debug for project Ejercicio 20 ****
+18:08:06 **** Incremental Build of configuration Debug for project Ejercicio 24 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ejercicio 20.o" "..\\src\\Ejercicio 20.c" 
-gcc -o "Ejercicio 20.exe" "src\\Ejercicio 20.o" 
-Info: Nothing to build for Ejercicio 20
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ejercicio 24.o" "..\\src\\Ejercicio 24.c" 
+gcc -o "Ejercicio 24.exe" "src\\Ejercicio 24.o" 
+Info: Nothing to build for Ejercicio 24
